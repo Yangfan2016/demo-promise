@@ -2,7 +2,7 @@
 This is a promise demo base Promises/A+
 
 
-## docs
+## Spec
 https://malcolmyu.github.io/2015/06/12/Promises-A-Plus/#Promise  
 
 
@@ -11,3 +11,7 @@ https://malcolmyu.github.io/2015/06/12/Promises-A-Plus/#Promise
 $ npm i -g promises-aplus-tests
 $ promises-aplus-tests Promise.js
 ```
+
+# Refs
+https://github.com/legend-li/Promise/blob/master/Promise.js  
+https://github.com/forthealllight/promise-achieve/blob/master/myPromise.js
