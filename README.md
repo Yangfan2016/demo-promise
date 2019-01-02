@@ -12,6 +12,6 @@ $ npm i -g promises-aplus-tests
 $ promises-aplus-tests Promise.js
 ```
 
-# Refs
+## Refs
 https://github.com/legend-li/Promise/blob/master/Promise.js  
 https://github.com/forthealllight/promise-achieve/blob/master/myPromise.js
